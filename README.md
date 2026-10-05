@@ -2,7 +2,7 @@
 
 A personal profile page built with HTML and CSS and hosted on GitHub Pages. It covers who I am, my education, projects, skills, interests and how to reach me.
 
-**Live site:** https://kartikeyakaranam.github.io
+**Live site:** https://kartikeyakaranam.github.io/Profile-Page/
 
 ## What's on the page
 
